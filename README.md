@@ -22,4 +22,5 @@ The dataset used for this project can be found on [Kaggle](https://www.kaggle.co
 The data has over 6,600 samples with 6 features including Age, Gender, Education Level, Job Title, Years of Experience, and Salary. With the objective of finding trends and disparities between these factors and the salary of the employee. 
 
 Preview of Data:
-![alt text](Individualproject.png)
+![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/c15a60a1-1a8d-4c48-82e7-2ef81d6b5b36)
+
