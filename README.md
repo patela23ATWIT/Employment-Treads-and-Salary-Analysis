@@ -25,3 +25,10 @@ Preview of Data:
 ![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/c15a60a1-1a8d-4c48-82e7-2ef81d6b5b36)
 
 The only cleaning that had to be done to the "Salary_Data.csv" was the removal of all empty rows. Otherwise, the dataset has not been changed or altered in any way. 
+
+## Methods
+
+Tools:
+* Numpy to manipulate data into arrays for further calculation
+* Pandas to analyze and visualize data
+* Scikit-learn to implement statistical modeling and machine learning
