@@ -19,8 +19,9 @@ By addressing these questions, the project aims to contribute insight into the d
 
 The dataset used for this project can be found on [Kaggle](https://www.kaggle.com/datasets). Kaggle is a platform for data scientists to help explore and analyze data from a reliable source. The creator of this dataset is Sinhasatwik and can be accessed here [Salary_Base_Data](https://www.kaggle.com/datasets/sinhasatwik/salary-base-data). 
 
-The data has over 6,600 samples with 6 features including Age, Gender, Education Level, Job Title, Years of Experience, and Salary. With the objective of finding trends and disparities between these factors and the salary of the employee. 
+The data has over 6,600 samples with 6 features including Age, Gender, Education Level, Job Title, Years of Experience, and Salary. To find trends and disparities between these factors and the salary of the employee. 
 
 Preview of Data:
 ![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/c15a60a1-1a8d-4c48-82e7-2ef81d6b5b36)
 
+The only cleaning that had to be done to the "Salary_Data.csv" was the removal of all empty rows. Otherwise, the dataset has not been changed or altered in any way. 
