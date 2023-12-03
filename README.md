@@ -14,3 +14,12 @@ The project utilizes the data science tools NumPy and Pandas for data manipulati
 3. Are there any notable disparities in compensation across the various factors?
 
 By addressing these questions, the project aims to contribute insight into the dynamics of employment and compensation, allowing a deeper understanding of the factors that may influence salary.
+
+## Selection of Data
+
+The dataset used for this project can be found on [Kaggle](https://www.kaggle.com/datasets). Kaggle is a platform for data scientists to help explore and analyze data from a reliable source. The creator of this dataset is Sinhasatwik and can be accessed here [Salary_Base_Data](https://www.kaggle.com/datasets/sinhasatwik/salary-base-data). 
+
+The data has over 6,600 samples with 6 features including Age, Gender, Education Level, Job Title, Years of Experience, and Salary. With the objective of finding trends and disparities between these factors and the salary of the employee. 
+
+Preview of Data:
+![alt text](Individualproject.png)
