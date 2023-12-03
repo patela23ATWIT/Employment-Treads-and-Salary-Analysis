@@ -7,7 +7,7 @@ This project aims to reveal meaningful insights into employment trends and salar
 
 The project utilizes the data science tools NumPy and Pandas for data manipulation. Along with Scikit-learn, it helps to provide predictive modeling, enabling us to form predictions from the dataset.
 
-## Key Questions
+### Key Questions
 
 1. Are there significant gender-based variations in compensation?
 2. What trends exist between education levels concerning salary?
