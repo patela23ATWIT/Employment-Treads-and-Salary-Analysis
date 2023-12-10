@@ -10,8 +10,8 @@ The project utilizes the data science tools NumPy and Pandas for data manipulati
 ### Key Questions
 
 1. Are there significant gender-based variations in compensation?
-2. What trends exist between education levels concerning salary?
-3. Are there any notable disparities in compensation across the various factors?
+2. Is there a relationship between the years of work experience and salary, and how does this vary across different professions?
+3. What is the expected impact of different levels of education on future salary trends?
 
 By addressing these questions, the project aims to contribute insight into the dynamics of employment and compensation, allowing a deeper understanding of the factors that may influence salary.
 
