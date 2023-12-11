@@ -24,7 +24,7 @@ The data has over 6,600 samples with 6 features including Age, Gender, Education
 Preview of Data:
 ![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/c15a60a1-1a8d-4c48-82e7-2ef81d6b5b36)
 
-The only cleaning that had to be done to the "Salary_Data.csv" was the removal of all empty rows. Otherwise, the dataset has not been changed or altered in any way. 
+The cleaning that had to be done to the "Salary_Data.csv" consisted of the removal of all empty rows. Along with the combining of "Master's" and "Master's Degree" in the dataset. Another thing that had to change was the years of experience for individuals who had 1.5 years converted to 1 and 0.5 years converted to 0. Otherwise, the dataset has not been changed or altered in any way. 
 
 ## Methods
 
