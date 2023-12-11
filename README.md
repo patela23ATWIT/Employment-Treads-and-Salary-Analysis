@@ -29,6 +29,16 @@ The cleaning that had to be done to the "Salary_Data.csv" consisted of the remov
 ## Methods
 
 Tools:
-* Numpy to manipulate data into arrays for further calculation
-* Pandas to analyze and visualize data
-* Scikit-learn to implement statistical modeling and machine learning
+* Pandas to read, analyze, and visualize data.
+* Matplotlib to use visualization to get a better understand and further analyze the data.
+* Scikit-learn to implement statistical modeling and machine learning.
+* Jupyter Notebook software to run code through the notebook.
+
+  ### Tools used with SciKit and Matplotlib:
+  * Data Splitting: Using the sklearn.model_selection, we split the data into a training and testing set. After using the prediction method on the test.
+  * Linear Regression: Using the sklearn.linear_model, we can use the fit method to help draw a trendline between data points.
+  * Visualization: Using matplotlib.pyplot, we can create graphs and plots in many different variations.
+
+ ## Results
+
+
