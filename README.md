@@ -11,7 +11,7 @@ The project utilizes the data science tools NumPy and Pandas for data manipulati
 
 1. Are there significant gender-based variations in compensation?
 2. Is there a relationship between the years of work experience and salary, and what are the highest-paying job titles?
-3. What is the expected impact of different levels of education on future salary trends?
+3. What is the expected impact of different levels of education on salary trends, while creating a thread line to fit and predict through missing data?
 
 By addressing these questions, the project aims to contribute insight into the dynamics of employment and compensation, allowing a deeper understanding of the factors that may influence salary.
 
@@ -43,3 +43,11 @@ Tools:
  
 Throughout this analysis, many conclusions were drawn about a person's salary depending on the key factors of the dataset. First, let's take a look at salary discrepancies based on gender. In this dataset, it was found that the average male salary is $121,395.70 while the average female salary is $107,889.00. That's a difference between $13,506.70 in pay yearly between males and females on average. But to take a closer look at the differences in salary between gender groups, the focus is shifted to the top 50 males and females. The average salary of the top 50 males was $223,400.00 and $206,900.00 for the females but the difference is only greater now being at $16,500.00. Thus as we can see there is a significant gap between the salaries of males and females on average being over $10,000.00 a year. Although these results may be able to be explained within the dataset, after doing some more research it was found that there were roughly 300 more males with a Ph.D. and around 600 with a bachelor's than there are females within the dataset. So that could be a point where the dataset may have some bias within the random sample. It is also notable that there are 658 more males than females within this dataset. 
 ![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/1568f33b-9e4a-4d67-85c2-8a8257f74113)
+
+Next addressing how the years of work experience can affect salary. Throughout the analysis, it is visible that the early years of working experience can play a huge factor in the pay of an employee. Growing at a steady linear rate around the first decade of working. But after that first decade, it is seen that the salary levels out near the top around the 15 years of work experience mark, staying fairly steady after that. It is also clear that job positions with less than 5 years of work experience will make a lot less than jobs that have more years of experience. Along with that looking at the highest-paying job titles and seeing how the job title may affect the salary of a person. Tied at first with an average salary of $250,000.00 are the job positions of Chief Technology Officer and CEO. Second is the Chief Data Officer paying $220,000.00 and third is the Director of Data Science with an average salary of $204,561.40. 
+![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/dc8cd656-8056-48b5-b034-f7a99e6b9251)
+
+Lastly, take a look at different education levels and create a trendline through the data. Using a linear regression model, and data splitting the data was separated into train and test cases for the trendline. From there the data of the training cases was fit into the linear regression model, and the predict method was used to help create the trendline to fit in between data points. While creating this visual the education level was set out of order so the levels of education had to be set in the order of "High School" to "Bachelor's" to "Master's" to "PhD". Also having to fit the dataset variables and combine the 2 case equivalents of Bachelor's and Master's degrees. 
+![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/280ee8a8-13c1-4ad9-aef4-2267191245f8)
+
+## Summary
