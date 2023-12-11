@@ -30,15 +30,15 @@ The cleaning that had to be done to the "Salary_Data.csv" consisted of the remov
 
 Tools:
 * Pandas to read, analyze, and visualize data.
-* Matplotlib to use visualization to get a better understand and further analyze the data.
+* Matplotlib to use visualization to get a better understanding and further analyze the data.
 * Scikit-learn to implement statistical modeling and machine learning.
 * Jupyter Notebook software to run code through the notebook.
 
-  ### Tools used with SciKit and Matplotlib:
-  * Data Splitting: Using the sklearn.model_selection, we split the data into a training and testing set. After using the prediction method on the test.
-  * Linear Regression: Using the sklearn.linear_model, we can use the fit method to help draw a trendline between data points.
-  * Visualization: Using matplotlib.pyplot, we can create graphs and plots in many different variations.
+  ### Tools used within SciKit and Matplotlib:
+  * Data Splitting: Using the sklearn.model_selection, split the data into a training and testing set. After using the prediction method on the test.
+  * Linear Regression: Using the sklearn.linear_model, use the fit method to help draw a trendline between data points.
+  * Visualization: Using matplotlib.pyplot, create graphs and plots in many different variations.
 
  ## Results
-
-
+ 
+Throughout this analysis, many conclusions were drawn about a person's salary depending on the key factors of the dataset. First, let's take a look at salary discrepancies based on gender. In this dataset, it was found that the average male salary is $121,395.70 while the average female salary is $107,889.00. That's a difference between $13,506.70 in pay yearly between males and females on average. But to take a closer look at the differences in salary between gender groups, the focus is shifted to the top 50 males and females. The average salary of the top 50 males was $223,400.00 and $206,900.00 for the females but the difference is only greater now being at $16,500.00. Thus as we can see there is a significant gap between the salaries of males and females on average being over $10,000.00 a year. Although these results may be able to be explained within the dataset, after doing some more research it was found that there were roughly 300 more males with a Ph.D. and around 600 with a bachelor's than there are females within the dataset. So that could be a point where the dataset may have some bias within the random sample. It is also notable that there are 658 more males than females within this dataset. 
