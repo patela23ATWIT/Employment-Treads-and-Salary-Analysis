@@ -51,3 +51,10 @@ Lastly, take a look at different education levels and create a trendline through
 ![Data](https://github.com/patela23ATWIT/Employment-Treads-and-Salary-Analysis/assets/90491468/280ee8a8-13c1-4ad9-aef4-2267191245f8)
 
 ## Summary
+This analysis dives into employment and salary trends, investigating the impacts of age, gender, education, and job titles on compensation. Leveraging Pandas for data manipulation, Matplotlib for visualizations, and Scikit-learn for predictive modeling where methods involving data splitting and linear regression. Looking into addressing key questions such as gender-based salary variations, the correlation between work experience and salary, the highest-paying job titles, and looking at the impacts of education level on salary. The dataset, sourced from Kaggle, encompasses over 6,600 samples, allowing for a comprehensive exploration of trends and disparities. Noteworthy findings include a notable gender salary gap, the influence of early work experience on pay, the highest-paying job titles, and the effect of education level on a worker's compensation. With these insights, a deeper understanding of employment and salary trends.
+
+## References
+
+* [Kaggle](https://www.kaggle.com/datasets)
+* [Salary_Base_Data](https://www.kaggle.com/datasets/sinhasatwik/salary-base-data).
+* [SciKit-Learn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
